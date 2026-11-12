@@ -6,9 +6,9 @@ import vikeReact from "vike-react/config";
 
 const config: Config = {
   // https://vike.dev/head-tags
-  title: "My Vike App",
-  description: "Demo showcasing Vike",
-
+  title: "Timo Peters",
+  description: "Showcasing my education and experience",
+  prerender: true,
   extends: [vikeReact],
 };
 

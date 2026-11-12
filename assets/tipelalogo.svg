@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <title>Tipela Logo</title>
+  <defs>
+    <linearGradient id="grad1" x1="100%" y1="89.7%" x2="0%" y2="12.7%">
+      <stop offset="0" stop-color="#fb6340" />
+      <stop offset="1" stop-color="#c92600" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="-6.1%" y1="19.7%" x2="94.2%" y2="74%">
+      <stop offset="0" stop-color="#38efd3" />
+      <stop offset="1" stop-color="#04a48c" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad1)" />
+  <g transform="matrix(.6789 0 0 .6789 186.43 182.11)">
+    <path d="m174.28 73.844c-50.295 0-91.062 40.767-91.062 91.062s40.767 91.063 91.062 91.063h259.72c-0.04 1.194-0.187 2.359-0.188 3.562v614.22c1e-3 58.939 47.78 106.72 106.72 106.72s106.72-47.78 106.72-106.72v-327.31c22.065 6.641 45.458 10.25 69.688 10.25 133.34-1e-3 241.44-108.1 241.44-241.44 0-127.77-99.293-232.27-224.91-240.78-3.379-0.38-6.802-0.625-10.281-0.625h-548.91zm545.66 117.16c68.759 0 124.5 55.741 124.5 124.5 0 68.759-55.741 124.5-124.5 124.5-68.76 0-124.5-55.741-124.5-124.5s55.74-124.5 124.5-124.5z" fill="url(#grad2)" />
+  </g>
+</svg>

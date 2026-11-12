@@ -3,6 +3,12 @@
     "strict": true,
     "target": "ES2022",
     "module": "ES2022",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
     "moduleResolution": "Bundler",
     "lib": [
       "DOM",
